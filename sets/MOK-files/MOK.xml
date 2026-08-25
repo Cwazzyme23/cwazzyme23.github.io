@@ -5,7 +5,7 @@
 			<name>MOK</name>
 			<longname>Murder on Kaladesh</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-24</releasedate>
+			<releasedate>2026-08-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -34,7 +34,7 @@ Whenever a suspicious creature leaves the battlefield, create a tapped treasure 
 Aether Hand Cannon can&apos;t have more than six charge counters on it.
 Equipped creature has vigilance and &quot;{W}{R}, Remove a charge counter from Aether Hand Cannon: Flip a coin. If you win the flip, this creature deals 3 damage to any target.&quot;
 Equip {2}</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/1.png" num="55">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/1.png" num="55">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,12 +48,11 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>The Maltese Griffin</name>
-			<text>When you gain control of The Maltese Griffin, put a charge counter on it. Then if there are four or more charge counters on it, transform it.
-{T}: Add one mana of any color. Create a tapped Treasure token.
-Whenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin.
+			<text>{T}: Add one mana of any color. Create a tapped Treasure token.
+Whenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin and puts a charge counter on it. Then if there are four or more charge counters on it, it transforms.
 ---
 (Back): Griffin of False Hope</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/2_front.png" num="59a">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/2_front.png" num="59a">MOK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -70,7 +69,7 @@ Whenever a creature deals combat damage to you, its controller gains control of 
 			<text>Defender
 ---
 (Front): The Maltese Griffin</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/2_back.png" num="59b">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/2_back.png" num="59b">MOK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -106,7 +105,7 @@ At the beginning of your upkeep, you gain X life, where X is the total number of
 			<name>ENOUGH!</name>
 			<text>You may cast this spell only during your upkeep.
 Remove all counters from all players and all permanents. You gain 1 life for each counter removed this way, then up to that many creatures become suspicious. Until your next turn, creatures can&apos;t attack, and players can&apos;t cast spells or activate abilities. (This includes mana abilities.)</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/4.png" num="4">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/4.png" num="4">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,7 +192,7 @@ At the beginning of combat on your turn, you may pay {2}{R}. If you control a cr
 			<name>Kaladesh Executioner</name>
 			<text>When Kaladesh Executioner enters the battlefield, target opponent loses X life and you gain X life, where X is the number of guilty cards they own. Then you may draw a card. If you do, you lose 2 life.
 At the beginning of combat on your turn, you may pay {2}{B}{B}. If you control a creature named Kaladesh Judge and a creature named Kaladesh Juror, you may pay {1} instead. When you do, create a copy of Kaladesh Judge.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/9.png" num="13">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/9.png" num="13">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -213,7 +212,7 @@ At the beginning of combat on your turn, you may pay {2}{B}{B}. If you control a
 Whenever an opponent draws a card, if it isn&apos;t their draw step, choose one. This ability triggers only once per opponent per turn.
 • Create a 1/1 white Human Soldier creature token.
 • Target creature becomes suspicious.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/10.png" num="7">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/10.png" num="7">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -250,7 +249,7 @@ Whenever one or more creatures attack you or a planeswalker you control, target 
 			<name>Amateur Reanimator</name>
 			<text>When Amateur Reanimator enters the battlefield, choose a random creature card in target player&apos;s graveyard and return it to the battlefield under your control as a 2/2 black Zombie. It loses all other colors and creature types and becomes suspicious.
 At the beginning of each end step, if three or more creatures left the battlefield this turn, exile Amateur Reanimator. Return it to the battlefield at the beginning of your next upkeep.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/12.png" num="9">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/12.png" num="9">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -289,7 +288,7 @@ At the beginning of each end step, if three or more creatures left the battlefie
 [-1]: Target creature becomes suspicious, then proliferate.
 ---
 (Back): Jace, Soulless Corpse</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/14_front.png" num="1a">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/14_front.png" num="1a">MOK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -305,12 +304,12 @@ At the beginning of each end step, if three or more creatures left the battlefie
 		</card>
 		<card>
 			<name>Jace, Soulless Corpse</name>
-			<text>​
-​
-​
+			<text>[+1]: Destroy target suspicious creature.
+[-1]: Target creature becomes suspicious, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+[-8]: You may cast any number of guilty creature cards from exile without paying their mana costs.
 ---
 (Front): Disembodied Spark</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/14_back.png" num="1b">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/14_back.png" num="1b">MOK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -347,7 +346,7 @@ When Evidence Dig enters the battlefield and at the beginning of your upkeep, ex
 			<text>Deathtouch
 When Gonti, Black Market King enters the battlefield, choose up to two guilty creature cards. You may cast those cards from exile, and mana of any type may be spent to cast them.
 At the beginning of your end step, Investigate X times, where X is half the number of suspicious creatures, rounded down.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/16.png" num="12">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/16.png" num="12">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -380,7 +379,7 @@ At the beginning of your end step, Investigate X times, where X is half the numb
 		<card>
 			<name>Pangs of Guilt</name>
 			<text>At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of creatures your opponents own in exile with guilt counters on them.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/18.png" num="15">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/18.png" num="15">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -397,7 +396,7 @@ At the beginning of your end step, Investigate X times, where X is half the numb
 			<name>Piatra Dimonde, Mob Broker</name>
 			<text>At the beginning of your upkeep, you may pay {X}. If you do, exile X plus one cards from the top of each opponent&apos;s library, then put a guilt counter on each creature card exiled this way.
 At the beginning of your upkeep, each opponent loses X life, where X is the number of guilty cards target player owns.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/19.png" num="16">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/19.png" num="16">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -414,7 +413,7 @@ At the beginning of your upkeep, each opponent loses X life, where X is the numb
 		<card>
 			<name>Silvanti, Yahenni&apos;s Follower</name>
 			<text>At the beginning of your end step, you may sacrifice a permanent. If you sacrificed a creature this way, up to three target creatures become suspicious, then put a +1/+1 counter on Silvanti. If you sacrificed a Clue this way, target creature gets -0/-3 for each suspicion counter on it until end of turn, then draw a card.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/20.png" num="17">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/20.png" num="17">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -431,7 +430,7 @@ At the beginning of your upkeep, each opponent loses X life, where X is the numb
 		<card>
 			<name>They All Did It!</name>
 			<text>Choose target creature you control. Put a suspicion counter on each other creature, then exile each other creature with two or more suspicion counters on it.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/21.png" num="18">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/21.png" num="18">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -501,7 +500,7 @@ At the beginning of each player&apos;s upkeep, they create a copy of Red Trout, 
 			<text>At the beginning of each player&apos;s end step, you may have that player manifest the top X cards of their library, where X is one plus the number of guilty cards they own. Put a suspicion counter on each creature created this way.
 You can&apos;t be attacked by creatures with no name.
 {3}, Exile Bloated Numbers: Exile all creatures with no name.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/25.png" num="23">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/25.png" num="23">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -520,7 +519,7 @@ You can&apos;t be attacked by creatures with no name.
 At the beginning of each player&apos;s upkeep, they choose one:
 • Brass Analyzer deals X damage to them, where X is the number of guilty creature cards they own.
 • You Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/26.png" num="24">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/26.png" num="24">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -606,7 +605,7 @@ Draw X cards, then deal X damage to up to two targets.</text>
 			<name>Chromlar, Head of Security</name>
 			<text>When Chromlar, Head of Security enters the battlefield, Goad target creature. Until the beginning of your next turn, whenever a creature attacks, it becomes suspicious, then Investigate.
 Clues you control have &quot;{T}: Add {B} to your mana pool.&quot;</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/31.png" num="26">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/31.png" num="26">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -623,7 +622,7 @@ Clues you control have &quot;{T}: Add {B} to your mana pool.&quot;</text>
 		<card>
 			<name>City Mortician</name>
 			<text>Whenever a nontoken creature dies, you may pay {WB}. If you do, target creature becomes suspicious, then Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/32.png" num="27">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/32.png" num="27">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -640,7 +639,7 @@ Clues you control have &quot;{T}: Add {B} to your mana pool.&quot;</text>
 		<card>
 			<name>Confusing Trade Deal</name>
 			<text>Counter target spell. Exile cards from the top of your library until you exile a card that shares a card type with that spell, then shuffle the other exiled cards into your library. That spell&apos;s owner may cast the exiled card without paying its mana cost.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/33.png" num="28">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/33.png" num="28">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -658,7 +657,7 @@ Clues you control have &quot;{T}: Add {B} to your mana pool.&quot;</text>
 			<text>If an opponent is attacking you and they own three or more guilty cards, you may pay {W} rather than pay Enforcer Setup&apos;s mana cost.
 Create a 1/1 white Human Soldier creature token for each attacking creature and each guilty card your opponents own. 
 Until end of turn, whenever a Soldier you control dies, target creature becomes suspicious.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/34.png" num="29">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/34.png" num="29">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -674,10 +673,10 @@ Until end of turn, whenever a Soldier you control dies, target creature becomes 
 		<card>
 			<name>Evidence Fabricator</name>
 			<text>At the beginning of each player&apos;s upkeep, choose one:
-• That player manifests the top card of their library and puts a suspicion counter on it.
+• That player manifests the top card of their library. It enters with a suspicion counter on it.
 • That player Investigates. If it&apos;s not your turn, Investigate.
 Creatures without names can&apos;t attack you or planeswalkers you control.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/35.png" num="30">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/35.png" num="30">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -693,7 +692,7 @@ Creatures without names can&apos;t attack you or planeswalkers you control.</tex
 		<card>
 			<name>Final Verdict</name>
 			<text>For each player, choose up to three creatures that player controls and exile them. Creatures you control get +X/+X and gain trample until end of turn, where X is the number of guilty cards your opponents own.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/36.png" num="31">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/36.png" num="31">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -712,7 +711,7 @@ Creatures without names can&apos;t attack you or planeswalkers you control.</tex
 I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
 II, III — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
 Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/37.png" num="33">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/37.png" num="33">MOK</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -728,7 +727,7 @@ Exile up to two target suspicious creatures, then each opponent loses two times 
 		<card>
 			<name>Infiltrate the Mob</name>
 			<text>Target opponent creates a 2/2 black Rogue creature token. It has menace and &quot;At the beginning of your upkeep, this creature deals X damage to you, where X is the number of guilty cards you own.&quot; When that token leaves the battlefield, create a 2/2 white Human Detective creature token and Investigate.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/38.png" num="34">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/38.png" num="34">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -838,7 +837,7 @@ Exile target nonland permanent, then Power Shock deals 1 damage to each creature
 			<text>When Ranaj, Enforcer-Chief enters the battlefield, Investigate.
 Whenever you sacrifice an artifact, put a charge counter on Ranaj. If this is the first time this ability has resolved this turn, target creature becomes suspicious.
 {1}, Remove four charge counters from Ranaj: Exile target suspicious creature, then its controller loses life equal to the number of guilty cards they own.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/44.png" num="42">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/44.png" num="42">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -856,7 +855,7 @@ Whenever you sacrifice an artifact, put a charge counter on Ranaj. If this is th
 			<name>Recruit Backup</name>
 			<text>When you cast this spell, if an opponent owns two or more guilty creatures, it gains rebound.
 Exile cards from the top of your library until you exile a Detective card. You may cast it without paying its mana cost, then shuffle the exiled cards into your library.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/45.png" num="43">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/45.png" num="43">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -871,9 +870,9 @@ Exile cards from the top of your library until you exile a Detective card. You m
 		</card>
 		<card>
 			<name>Servati Hart, Eternities Tinkerer</name>
-			<text>At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Investigate, then Discover 3.
+			<text>At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Discover 3.
 At the beginning of your end step, if three or more artifacts left the battlefield this turn, exile target creature, then return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/46.png" num="44">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/46.png" num="44">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -891,10 +890,10 @@ At the beginning of your end step, if three or more artifacts left the battlefie
 			<name>The Investigation</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 white and black Human Detective creature token, then Investigate twice.
-Create a treasure token, then sacrifice any number of treasures. Flip that many coins. For each flip you win, create two treasure tokens.
+Sacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.
 II — Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. 
 III — Exile a Detective you control or nontoken creature you control.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/47.png" num="35">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/47.png" num="35">MOK</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -910,7 +909,7 @@ III — Exile a Detective you control or nontoken creature you control.</text>
 		<card>
 			<name>Uncompromising Justice</name>
 			<text>Whenever a creature you control attacks a player, that player exiles the top card of their library and puts a guilt counter on it, then untap that creature. It gains first strike and gets +X/+0 until end of combat, where X is the number of guilty cards the defending player owns.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/48.png" num="46">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/48.png" num="46">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -944,7 +943,7 @@ III — Exile a Detective you control or nontoken creature you control.</text>
 		<card>
 			<name>Vera Spade, Card Shark</name>
 			<text>At the beginning of your upkeep, you and target opponent each exile the top card of your libraries. The player who exiled the card with the highest mana value may cast the exiled cards until the end of their next turn. If there is a tie, you each exile the top card of your libraries, then repeat this process.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/50.png" num="47">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/50.png" num="47">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -962,7 +961,7 @@ III — Exile a Detective you control or nontoken creature you control.</text>
 			<name>Wadsworth, Brass Butler</name>
 			<text>At the beginning of your upkeep, Weld 1. If an opponent controls three or more suspicious creatures, Weld 2 instead.
 Other Robots you control have +1/+0 and Bushido X, where X is the greatest number of suspicious creatures a player controls. (Whenever that creature blocks or becomes blocked, it gets +X/+X until end of turn.)</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/51.png" num="48">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/51.png" num="48">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -997,7 +996,7 @@ When there are no charge counters on Aether Shipment, sacrifice it, then draw tw
 			<text>Activated abilities of other clues you control cost {1} less to activate.
 Whenever you sacrifice a clue, put a charge counter on Clover&apos;s Journal.
 {2}, Remove three charge counters from Clover&apos;s Journal: Target creature becomes suspicious, proliferate, then draw a card.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/53.png" num="57">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/53.png" num="57">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1027,7 +1026,7 @@ Whenever you sacrifice a clue, put a charge counter on Clover&apos;s Journal.
 			<name>Outdated Scrap Heap</name>
 			<text>When Outdated Scrap Heap enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying and a 1/1 colorless Servo artifact creature token.
 At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If you do, create a token that&apos;s a copy of another target artifact you control.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/55.png" num="60">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/55.png" num="60">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1042,7 +1041,7 @@ At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If y
 			<name>The Pathway Machine</name>
 			<text>When The Pathway Machine enters the battlefield and at the beginning of your upkeep, put a charge counter on it.
 {T}, Remove three charge counters from The Pathway Machine: Exile target creature you don&apos;t control. Return it to the battlefield under your control at the beginning of your next upkeep and create a token that&apos;s a copy of it, except it isn&apos;t legendary. If The Pathway Machine has less than two charge counters on it, destroy it.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/56.png" num="61">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/56.png" num="61">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1156,7 +1155,7 @@ At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If y
 			<name>Sudden Sandstorm</name>
 			<text>Exile target artifact or enchantment.
 Each opponent may flip a coin. Each player who wins the flip chooses an artifact or enchantment, then you may choose an artifact or enchantment for each player who flipped a coin this way. Exile the chosen permanents.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/63.png" num="45">MOK</set>
+			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/63.png" num="45">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1241,7 +1240,7 @@ When Crime Scene enters the battlefield, target creature becomes suspicious. (Ta
 			<name>The Blind Eternities</name>
 			<text>When The Blind Eternities enters the battlefield and at the beginning of your upkeep, put a charge counter on it.
 When the third charge counter is put on The Blind Eternities, exile it, then search your library for two basic land cards and put them onto the battlefield.</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/68.png" num="72">MOK</set>
+			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/68.png" num="72">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1309,7 +1308,7 @@ When the third charge counter is put on The Blind Eternities, exile it, then sea
 {T}: Add {C}.
 {1}, {T}: Add {R}, {W}, or {B}. This ability costs {1} less to activate if you control a clue.
 {3}, {T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/72.png" num="77">MOK</set>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/72.png" num="77">MOK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

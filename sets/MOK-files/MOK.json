@@ -31,7 +31,7 @@
         {
             "card_name": "Aether Hand Cannon",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 55,
             "color_identity": "WR",
@@ -52,12 +52,12 @@
         {
             "card_name": "The Maltese Griffin",
             "color": "",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Artifact",
             "number": 59,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "When you gain control of The Maltese Griffin, put a charge counter on it. Then if there are four or more charge counters on it, transform it.\n{T}: Add one mana of any color. Create a tapped Treasure token.\nWhenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin.",
+            "rules_text": "{T}: Add one mana of any color. Create a tapped Treasure token.\nWhenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin and puts a charge counter on it. Then if there are four or more charge counters on it, it transforms.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -106,7 +106,7 @@
         {
             "card_name": "ENOUGH!",
             "color": "W",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 4,
             "color_identity": "W",
@@ -211,7 +211,7 @@
         {
             "card_name": "Kaladesh Executioner",
             "color": "B",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Warrior",
             "number": 13,
             "color_identity": "B",
@@ -232,7 +232,7 @@
         {
             "card_name": "Simlar, Consul of Law",
             "color": "W",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble Detective",
             "number": 7,
             "color_identity": "W",
@@ -274,7 +274,7 @@
         {
             "card_name": "Amateur Reanimator",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
             "number": 9,
             "color_identity": "B",
@@ -316,7 +316,7 @@
         {
             "card_name": "Disembodied Spark",
             "color": "",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Legendary Planeswalker",
             "number": 1,
             "color_identity": "B",
@@ -335,10 +335,10 @@
             "color2": "B",
             "type2": "Legendary Planeswalker \u2014 Jace?",
             "cost2": "",
-            "rules_text2": "\u200b\n\u200b\n\u200b",
+            "rules_text2": "[+1]: Destroy target suspicious creature.\n[-1]: Target creature becomes suspicious, then proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]\n[-8]: You may cast any number of guilty creature cards from exile without paying their mana costs.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "\u200b\n\u200b\n\u200b",
+            "special_text2": "[+1]: Destroy target suspicious creature.\n[-1]: Target creature becomes suspicious, then proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]\n[-8]: You may cast any number of guilty creature cards from exile without paying their mana costs.",
             "loyalty2": "5",
             "artist2": "",
             "alias2": "",
@@ -370,7 +370,7 @@
         {
             "card_name": "Gonti, Black Market King",
             "color": "B",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Aetherborn Rogue",
             "number": 12,
             "color_identity": "B",
@@ -412,7 +412,7 @@
         {
             "card_name": "Pangs of Guilt",
             "color": "B",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 15,
             "color_identity": "B",
@@ -433,7 +433,7 @@
         {
             "card_name": "Piatra Dimonde, Mob Broker",
             "color": "B",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Aetherborn Noble",
             "number": 16,
             "color_identity": "B",
@@ -454,7 +454,7 @@
         {
             "card_name": "Silvanti, Yahenni's Follower",
             "color": "B",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Aetherborn Detective",
             "number": 17,
             "color_identity": "B",
@@ -475,7 +475,7 @@
         {
             "card_name": "They All Did It!",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 18,
             "color_identity": "B",
@@ -559,7 +559,7 @@
         {
             "card_name": "Bloated Numbers",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 23,
             "color_identity": "WB",
@@ -580,7 +580,7 @@
         {
             "card_name": "Brass Analyzer",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Robot Detective",
             "number": 24,
             "color_identity": "WR",
@@ -685,7 +685,7 @@
         {
             "card_name": "Chromlar, Head of Security",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Advisor Detective",
             "number": 26,
             "color_identity": "WB",
@@ -706,7 +706,7 @@
         {
             "card_name": "City Mortician",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
             "number": 27,
             "color_identity": "WB",
@@ -727,7 +727,7 @@
         {
             "card_name": "Confusing Trade Deal",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Instant",
             "number": 28,
             "color_identity": "BR",
@@ -748,7 +748,7 @@
         {
             "card_name": "Enforcer Setup",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Instant \u2014 Trap",
             "number": 29,
             "color_identity": "WB",
@@ -769,12 +769,12 @@
         {
             "card_name": "Evidence Fabricator",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Artifact",
             "number": 30,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "At the beginning of each player's upkeep, choose one:\n\u2022 That player manifests the top card of their library and puts a suspicion counter on it.\n\u2022 That player Investigates. If it's not your turn, Investigate.\nCreatures without names can't attack you or planeswalkers you control.",
+            "rules_text": "At the beginning of each player's upkeep, choose one:\n\u2022 That player manifests the top card of their library. It enters with a suspicion counter on it.\n\u2022 That player Investigates. If it's not your turn, Investigate.\nCreatures without names can't attack you or planeswalkers you control.",
             "flavor_text": "[i]\u201cWith this device, we can frame anyone and anything. [b]Any[/b] thing.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -790,7 +790,7 @@
         {
             "card_name": "Final Verdict",
             "color": "WBR",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Sorcery",
             "number": 31,
             "color_identity": "WBR",
@@ -811,7 +811,7 @@
         {
             "card_name": "Homicide Trial",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 33,
             "color_identity": "WB",
@@ -832,7 +832,7 @@
         {
             "card_name": "Infiltrate the Mob",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 34,
             "color_identity": "BR",
@@ -958,7 +958,7 @@
         {
             "card_name": "Ranaj, Enforcer-Chief",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Soldier Detective",
             "number": 42,
             "color_identity": "WB",
@@ -979,7 +979,7 @@
         {
             "card_name": "Recruit Backup",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 43,
             "color_identity": "WR",
@@ -1000,12 +1000,12 @@
         {
             "card_name": "Servati Hart, Eternities Tinkerer",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Angel Artificer",
             "number": 44,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Investigate, then Discover 3.\nAt the beginning of your end step, if three or more artifacts left the battlefield this turn, exile target creature, then return it to the battlefield under its owner's control.",
+            "rules_text": "At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Discover 3.\nAt the beginning of your end step, if three or more artifacts left the battlefield this turn, exile target creature, then return it to the battlefield under its owner's control.",
             "flavor_text": "[i]\u201cYes, I did train your suspect, but not in how to build that machine. I don't blame him, though. Omenpaths are so few and so far between.\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1021,15 +1021,15 @@
         {
             "card_name": "The Investigation",
             "color": "WBR",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 35,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nCreate a treasure token, then sacrifice any number of treasures. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nCreate a treasure token, then sacrifice any number of treasures. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
             "shape": "saga",
             "set": "MOK",
             "loyalty": "",
@@ -1042,7 +1042,7 @@
         {
             "card_name": "Uncompromising Justice",
             "color": "WBR",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 46,
             "color_identity": "WBR",
@@ -1084,7 +1084,7 @@
         {
             "card_name": "Vera Spade, Card Shark",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Demon Bard",
             "number": 47,
             "color_identity": "BR",
@@ -1105,7 +1105,7 @@
         {
             "card_name": "Wadsworth, Brass Butler",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2014 Robot",
             "number": 48,
             "color_identity": "WR",
@@ -1147,7 +1147,7 @@
         {
             "card_name": "Clover's Journal",
             "color": "",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Artifact \u2014 Clue",
             "number": 57,
             "color_identity": "C",
@@ -1189,7 +1189,7 @@
         {
             "card_name": "Outdated Scrap Heap",
             "color": "",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Artifact \u2014 Clue",
             "number": 60,
             "color_identity": "C",
@@ -1210,7 +1210,7 @@
         {
             "card_name": "The Pathway Machine",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Artifact \u2014 Clue",
             "number": 61,
             "color_identity": "C",
@@ -1357,7 +1357,7 @@
         {
             "card_name": "Sudden Sandstorm",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 45,
             "color_identity": "WR",
@@ -1462,7 +1462,7 @@
         {
             "card_name": "The Blind Eternities",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Land",
             "number": 72,
             "color_identity": "C",
@@ -1546,7 +1546,7 @@
         {
             "card_name": "Clover's Office",
             "color": "",
-            "rarity": "common",
+            "rarity": "mythic",
             "type": "Land",
             "number": 77,
             "color_identity": "WBR",
@@ -2132,5 +2132,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

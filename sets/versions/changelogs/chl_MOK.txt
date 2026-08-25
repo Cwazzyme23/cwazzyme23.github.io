@@ -1,4 +1,112 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Aether Hand Cannon
+
+The Maltese Griffin
+rules_text: When you gain control of The Maltese Griffin, put a charge counter on it. Then if there are four or more charge counters on it, transform it.
+{T}: Add one mana of any color. Create a tapped Treasure token.
+Whenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin. => {T}: Add one mana of any color. Create a tapped Treasure token.
+Whenever a creature deals combat damage to you, its controller gains control of The Maltese Griffin and puts a charge counter on it. Then if there are four or more charge counters on it, it transforms.
+
+ENOUGH!
+
+Kaladesh Executioner
+
+Simlar, Consul of Law
+
+Amateur Reanimator
+
+Disembodied Spark
+
+Gonti, Black Market King
+
+Pangs of Guilt
+
+Piatra Dimonde, Mob Broker
+
+Silvanti, Yahenni's Follower
+
+They All Did It!
+
+Bloated Numbers
+
+Brass Analyzer
+
+Chromlar, Head of Security
+
+City Mortician
+
+Confusing Trade Deal
+
+Enforcer Setup
+
+Evidence Fabricator
+rules_text: At the beginning of each player's upkeep, choose one:
+• That player manifests the top card of their library and puts a suspicion counter on it.
+• That player Investigates. If it's not your turn, Investigate.
+Creatures without names can't attack you or planeswalkers you control. => At the beginning of each player's upkeep, choose one:
+• That player manifests the top card of their library. It enters with a suspicion counter on it.
+• That player Investigates. If it's not your turn, Investigate.
+Creatures without names can't attack you or planeswalkers you control.
+
+Final Verdict
+
+Homicide Trial
+
+Infiltrate the Mob
+
+Ranaj, Enforcer-Chief
+
+Recruit Backup
+
+Servati Hart, Eternities Tinkerer
+rules_text: At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Investigate, then Discover 3.
+At the beginning of your end step, if three or more artifacts left the battlefield this turn, exile target creature, then return it to the battlefield under its owner's control. => At the beginning of your upkeep, you may pay {R}{W} and sacrifice an artifact. If you do, Discover 3.
+At the beginning of your end step, if three or more artifacts left the battlefield this turn, exile target creature, then return it to the battlefield under its owner's control.
+
+The Investigation
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white and black Human Detective creature token, then Investigate twice.
+Create a treasure token, then sacrifice any number of treasures. Flip that many coins. For each flip you win, create two treasure tokens.
+II — Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. 
+III — Exile a Detective you control or nontoken creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white and black Human Detective creature token, then Investigate twice.
+Sacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.
+II — Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. 
+III — Exile a Detective you control or nontoken creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white and black Human Detective creature token, then Investigate twice.
+Create a treasure token, then sacrifice any number of treasures. Flip that many coins. For each flip you win, create two treasure tokens.
+II — Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. 
+III — Exile a Detective you control or nontoken creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white and black Human Detective creature token, then Investigate twice.
+Sacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.
+II — Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. 
+III — Exile a Detective you control or nontoken creature you control.
+
+Uncompromising Justice
+
+Vera Spade, Card Shark
+
+Wadsworth, Brass Butler
+
+Clover's Journal
+
+Outdated Scrap Heap
+
+The Pathway Machine
+
+Sudden Sandstorm
+
+The Blind Eternities
+
+Clover's Office
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
