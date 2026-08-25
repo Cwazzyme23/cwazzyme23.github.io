@@ -1,4 +1,112 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Suspicion and Guilt added.
+Weld added.
+
+Max Clover, Private Eye removed.
+Aether Hand Cannon removed.
+The Maltese Griffin removed.
+Brass Sky Enforcer removed.
+ENOUGH! removed.
+Clever Newsie removed.
+Increasing Police Presence removed.
+Kaladesh Judge removed.
+Kaladesh Juror removed.
+Kaladesh Executioner removed.
+Simlar, Consul of Law removed.
+Vigilant Captain removed.
+Amateur Reanimator removed.
+Consult the Victim removed.
+Disembodied Spark removed.
+Evidence Dig removed.
+Gonti, Black Market King removed.
+Last Words removed.
+Pangs of Guilt removed.
+Piatra Dimonde, Mob Broker removed.
+Silvanti, Yahenni's Follower removed.
+They All Did It! removed.
+What if I Did It... removed.
+Faithless Investigating removed.
+Red Trout removed.
+Bloated Numbers removed.
+Brass Analyzer removed.
+Brass Assistant removed.
+Brass Bodyguard removed.
+Brass Enforcer removed.
+Burn the Evidence removed.
+Chromlar, Head of Security removed.
+City Mortician removed.
+Confusing Trade Deal removed.
+Enforcer Setup removed.
+Evidence Fabricator removed.
+Final Verdict removed.
+Homicide Trial removed.
+Infiltrate the Mob removed.
+Mob Advisor removed.
+Mob Work removed.
+Lost Drifter removed.
+Power Shock removed.
+Programmable Companion removed.
+Ranaj, Enforcer-Chief removed.
+Recruit Backup removed.
+Servati Hart, Eternities Tinkerer removed.
+The Investigation removed.
+Uncompromising Justice removed.
+Gambling Ring removed.
+Vera Spade, Card Shark removed.
+Wadsworth, Brass Butler removed.
+Aether Shipment removed.
+Clover's Journal removed.
+Emergency Supply removed.
+Outdated Scrap Heap removed.
+The Pathway Machine removed.
+Undistilled Firebomb removed.
+Undistilled Healing Salve removed.
+Undistilled Power removed.
+Victim's Aether removed.
+Victim's Jewelry removed.
+Victim's Keepsakes removed.
+Sudden Sandstorm removed.
+Aether Refinery removed.
+Brass Factory removed.
+Forensics Laboratory removed.
+Crime Scene removed.
+The Blind Eternities removed.
+The Consulate removed.
+Mob Diner removed.
+Suspect's Lab removed.
+Clover's Office removed.
+Vera's Bar removed.
+Enforcer Headquarters removed.
+Hart's Workshop removed.
+Brass Smithy removed.
+Brass Welders removed.
+Brass Workshop removed.
+Clue removed.
+Robot Clue removed.
+Treasure removed.
+Thopter removed.
+Servo removed.
+Rogue removed.
+Human Detective removed.
+Human Soldier removed.
+Copy removed.
+Human Detective removed.
+Human removed.
+Human Soldier removed.
+Black Market Warehouse removed.
+Consulate Reserves removed.
+Inventor's Market removed.
+Distant Sands removed.
+Distant Flames removed.
+Distant Towns removed.
+Melted Consulate removed.
+Arrested Headquarters removed.
+Abandoned Shops removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
