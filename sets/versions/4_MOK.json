@@ -1,10 +1,17 @@
 ﻿{
+    "name": "Murder on Kaladesh",
+    "formats": "Commander",
+    "image_type": "png",
+    "draft_structure": "none",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Max Clover, Private Eye",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Detective",
+            "type": "Legendary Creature \u2014 Human Detective",
             "number": 37,
             "color_identity": "WBR",
             "cost": "{2}{W}{B}",
@@ -19,15 +26,13 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Aether Hand Cannon",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 55,
             "color_identity": "WR",
             "cost": "{2}",
@@ -42,9 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Maltese Griffin",
@@ -66,7 +69,7 @@
             "position": "2",
             "card_name2": "Griffin of False Hope",
             "color2": "",
-            "type2": "Artifact Creature \u2013 Griffin",
+            "type2": "Artifact Creature \u2014 Griffin",
             "cost2": "",
             "rules_text2": "Defender",
             "flavor_text2": "[i]The stuff that dreams are made of.[/i]",
@@ -77,15 +80,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Sky Enforcer",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot Angel",
+            "type": "Artifact Creature \u2014 Robot Angel",
             "number": 2,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -100,9 +101,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "ENOUGH!",
@@ -123,15 +122,13 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Clever Newsie",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -146,9 +143,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Increasing Police Presence",
@@ -169,15 +164,13 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Kaladesh Judge",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -192,15 +185,13 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Kaladesh Juror",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 21,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -215,15 +206,13 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Kaladesh Executioner",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 13,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -238,15 +227,13 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Simlar, Consul of Law",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Noble Detective",
+            "type": "Legendary Creature \u2014 Human Noble Detective",
             "number": 7,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -261,15 +248,13 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vigilant Captain",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -284,15 +269,13 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Amateur Reanimator",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 9,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -307,9 +290,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Consult the Victim",
@@ -330,9 +311,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Disembodied Spark",
@@ -354,7 +333,7 @@
             "position": "14",
             "card_name2": "Jace, Soulless Corpse",
             "color2": "B",
-            "type2": "Legendary Planeswalker \u2013 Jace?",
+            "type2": "Legendary Planeswalker \u2014 Jace?",
             "cost2": "",
             "rules_text2": "[+1]: Destroy target suspicious creature.\n[-1]: Target creature becomes suspicious, then proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]\n[-8]: You may cast any number of guilty creature cards from exile without paying their mana costs.",
             "flavor_text2": "[i][/i]",
@@ -365,9 +344,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Evidence Dig",
@@ -388,15 +365,13 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Gonti, Black Market King",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Aetherborn Rogue",
+            "type": "Legendary Creature \u2014 Aetherborn Rogue",
             "number": 12,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -411,9 +386,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Last Words",
@@ -434,9 +407,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pangs of Guilt",
@@ -457,15 +428,13 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Piatra Dimonde, Mob Broker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Aetherborn Noble",
+            "type": "Legendary Creature \u2014 Aetherborn Noble",
             "number": 16,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -480,15 +449,13 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Silvanti, Yahenni's Follower",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Aetherborn Detective",
+            "type": "Legendary Creature \u2014 Aetherborn Detective",
             "number": 17,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -503,9 +470,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "They All Did It!",
@@ -526,9 +491,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "What if I Did It...",
@@ -549,9 +512,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Faithless Investigating",
@@ -572,15 +533,13 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Red Trout",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Fish",
+            "type": "Creature \u2014 Fish",
             "number": 22,
             "color_identity": "R",
             "cost": "{R}",
@@ -595,9 +554,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bloated Numbers",
@@ -618,15 +575,13 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Analyzer",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Robot Detective",
+            "type": "Artifact Creature \u2014 Robot Detective",
             "number": 24,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -641,15 +596,13 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Assistant",
             "color": "WR",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2014 Robot",
             "number": 49,
             "color_identity": "WR",
             "cost": "{1}{RW}",
@@ -664,15 +617,13 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Bodyguard",
             "color": "BR",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2014 Robot",
             "number": 50,
             "color_identity": "BR",
             "cost": "{1}{BR}",
@@ -687,15 +638,13 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Enforcer",
             "color": "WB",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2014 Robot",
             "number": 51,
             "color_identity": "WB",
             "cost": "{1}{WB}",
@@ -710,9 +659,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Burn the Evidence",
@@ -733,15 +680,13 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Chromlar, Head of Security",
             "color": "WB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Advisor Detective",
+            "type": "Legendary Creature \u2014 Human Advisor Detective",
             "number": 26,
             "color_identity": "WB",
             "cost": "{2}{W}{B}{B}",
@@ -756,15 +701,13 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "City Mortician",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 27,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -779,9 +722,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Confusing Trade Deal",
@@ -802,15 +743,13 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Enforcer Setup",
             "color": "WB",
             "rarity": "rare",
-            "type": "Instant \u2013 Trap",
+            "type": "Instant \u2014 Trap",
             "number": 29,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -825,9 +764,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Evidence Fabricator",
@@ -848,9 +785,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Final Verdict",
@@ -871,22 +806,20 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Homicide Trial",
             "color": "WB",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 33,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "[i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.\nII, III \u2013 Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.\nExile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.",
+            "rules_text": "[i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.\nII, III \u2014 Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.\nExile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.\nII, III \u2013 Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.\nExile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.",
+            "special_text": "[i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.\nII, III \u2014 Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.\nExile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.",
             "shape": "saga",
             "set": "MOK",
             "loyalty": "",
@@ -894,9 +827,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Infiltrate the Mob",
@@ -917,15 +848,13 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mob Advisor",
             "color": "BR",
             "rarity": "common",
-            "type": "Creature \u2013 Demon Advisor",
+            "type": "Creature \u2014 Demon Advisor",
             "number": 38,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
@@ -940,9 +869,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mob Work",
@@ -963,15 +890,13 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lost Drifter",
             "color": "WR",
             "rarity": "common",
-            "type": "Creature \u2013 Human Ranger Detective",
+            "type": "Creature \u2014 Human Ranger Detective",
             "number": 36,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -986,9 +911,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Power Shock",
@@ -1009,15 +932,13 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Programmable Companion",
             "color": "WR",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2014 Robot",
             "number": 41,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -1032,15 +953,13 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ranaj, Enforcer-Chief",
             "color": "WB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Soldier Detective",
+            "type": "Legendary Creature \u2014 Human Soldier Detective",
             "number": 42,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -1055,9 +974,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Recruit Backup",
@@ -1078,15 +995,13 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Servati Hart, Eternities Tinkerer",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Angel Artificer",
+            "type": "Legendary Creature \u2014 Angel Artificer",
             "number": 44,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -1101,22 +1016,20 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Investigation",
             "color": "WBR",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 35,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2013 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2013 Exile a Detective you control or nontoken creature you control.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2013 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2013 Exile a Detective you control or nontoken creature you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white and black Human Detective creature token, then Investigate twice.\nSacrifice up to two artifacts. Flip that many coins. For each flip you win, create two treasure tokens.\nII \u2014 Sacrifice up to two artifacts. Weld X , where X is the number of artifacts sacrificed. \nIII \u2014 Exile a Detective you control or nontoken creature you control.",
             "shape": "saga",
             "set": "MOK",
             "loyalty": "",
@@ -1124,9 +1037,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Uncompromising Justice",
@@ -1147,9 +1058,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Gambling Ring",
@@ -1170,15 +1079,13 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vera Spade, Card Shark",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Demon Bard",
+            "type": "Legendary Creature \u2014 Demon Bard",
             "number": 47,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -1193,15 +1100,13 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wadsworth, Brass Butler",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2013 Robot",
+            "type": "Legendary Artifact Creature \u2014 Robot",
             "number": 48,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -1216,15 +1121,13 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Aether Shipment",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 56,
             "color_identity": "C",
             "cost": "{3}",
@@ -1239,15 +1142,13 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Clover's Journal",
             "color": "",
             "rarity": "uncommon",
-            "type": "Legendary Artifact \u2013 Clue",
+            "type": "Legendary Artifact \u2014 Clue",
             "number": 57,
             "color_identity": "C",
             "cost": "{4}",
@@ -1262,9 +1163,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Emergency Supply",
@@ -1285,15 +1184,13 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Outdated Scrap Heap",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 60,
             "color_identity": "C",
             "cost": "{3}",
@@ -1308,15 +1205,13 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Pathway Machine",
             "color": "",
             "rarity": "rare",
-            "type": "Legendary Artifact \u2013 Clue",
+            "type": "Legendary Artifact \u2014 Clue",
             "number": 61,
             "color_identity": "C",
             "cost": "{3}",
@@ -1331,15 +1226,13 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undistilled Firebomb",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 62,
             "color_identity": "R",
             "cost": "{2}",
@@ -1354,15 +1247,13 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undistilled Healing Salve",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 63,
             "color_identity": "W",
             "cost": "{2}",
@@ -1377,15 +1268,13 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undistilled Power",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 64,
             "color_identity": "B",
             "cost": "{2}",
@@ -1400,15 +1289,13 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Victim's Aether",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 65,
             "color_identity": "WR",
             "cost": "{2}",
@@ -1423,15 +1310,13 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Victim's Jewelry",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 66,
             "color_identity": "BR",
             "cost": "{2}",
@@ -1446,15 +1331,13 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Victim's Keepsakes",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Clue",
+            "type": "Artifact \u2014 Clue",
             "number": 67,
             "color_identity": "WB",
             "cost": "{2}",
@@ -1469,9 +1352,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sudden Sandstorm",
@@ -1492,9 +1373,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Aether Refinery",
@@ -1515,9 +1394,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Factory",
@@ -1538,9 +1415,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Forensics Laboratory",
@@ -1561,9 +1436,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Crime Scene",
@@ -1584,9 +1457,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Blind Eternities",
@@ -1607,15 +1478,13 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Consulate",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Land \u2013 Clue",
+            "type": "Artifact Land \u2014 Clue",
             "number": 52,
             "color_identity": "WB",
             "cost": "",
@@ -1630,15 +1499,13 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mob Diner",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Land \u2013 Clue",
+            "type": "Artifact Land \u2014 Clue",
             "number": 53,
             "color_identity": "BR",
             "cost": "",
@@ -1653,15 +1520,13 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Suspect's Lab",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Land \u2013 Clue",
+            "type": "Artifact Land \u2014 Clue",
             "number": 54,
             "color_identity": "WR",
             "cost": "",
@@ -1676,9 +1541,7 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Clover's Office",
@@ -1699,9 +1562,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vera's Bar",
@@ -1722,9 +1583,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Enforcer Headquarters",
@@ -1745,9 +1604,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Hart's Workshop",
@@ -1768,9 +1625,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Smithy",
@@ -1791,9 +1646,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Welders",
@@ -1814,9 +1667,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Brass Workshop",
@@ -1837,15 +1688,13 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Clue",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Clue",
+            "type": "Token Artifact \u2014 Clue",
             "number": 10,
             "color_identity": "C",
             "cost": "",
@@ -1860,15 +1709,13 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Robot Clue",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Clue Robot",
+            "type": "Token Artifact Creature \u2014 Clue Robot",
             "number": 11,
             "color_identity": "C",
             "cost": "",
@@ -1883,15 +1730,13 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 14,
             "color_identity": "C",
             "cost": "",
@@ -1906,15 +1751,13 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Thopter",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Thopter",
+            "type": "Token Artifact Creature \u2014 Thopter",
             "number": 13,
             "color_identity": "C",
             "cost": "",
@@ -1929,15 +1772,13 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Servo",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Servo",
+            "type": "Token Artifact Creature \u2014 Servo",
             "number": 12,
             "color_identity": "C",
             "cost": "",
@@ -1952,15 +1793,13 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Rogue",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Rogue",
+            "type": "Token Creature \u2014 Rogue",
             "number": 8,
             "color_identity": "B",
             "cost": "",
@@ -1975,15 +1814,13 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Human Detective",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Human Detective",
+            "type": "Token Creature \u2014 Human Detective",
             "number": 4,
             "color_identity": "W",
             "cost": "",
@@ -1998,15 +1835,13 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Human Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Human Soldier",
+            "type": "Token Creature \u2014 Human Soldier",
             "number": 5,
             "color_identity": "W",
             "cost": "",
@@ -2021,9 +1856,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Copy",
@@ -2044,15 +1877,13 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Human Detective",
             "color": "WB",
             "rarity": "common",
-            "type": "Token Creature \u2013 Human Detective",
+            "type": "Token Creature \u2014 Human Detective",
             "number": 9,
             "color_identity": "WB",
             "cost": "",
@@ -2067,15 +1898,13 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Human",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Human",
+            "type": "Token Creature \u2014 Human",
             "number": 7,
             "color_identity": "B",
             "cost": "",
@@ -2090,15 +1919,13 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Human Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Human Soldier",
+            "type": "Token Creature \u2014 Human Soldier",
             "number": 6,
             "color_identity": "W",
             "cost": "",
@@ -2113,9 +1940,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Black Market Warehouse",
@@ -2136,9 +1961,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Consulate Reserves",
@@ -2159,9 +1982,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Inventor's Market",
@@ -2182,9 +2003,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Distant Sands",
@@ -2205,9 +2024,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Distant Flames",
@@ -2228,9 +2045,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Distant Towns",
@@ -2251,9 +2066,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Melted Consulate",
@@ -2274,9 +2087,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Arrested Headquarters",
@@ -2297,9 +2108,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Abandoned Shops",
@@ -2320,15 +2129,13 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Suspicion and Guilt",
             "color": "",
             "rarity": "common",
-            "type": "Token \u2013 Reminder",
+            "type": "Token \u2014 Reminder",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -2343,15 +2150,13 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Weld",
             "color": "",
             "rarity": "common",
-            "type": "Token \u2013 Reminder",
+            "type": "Token \u2014 Reminder",
             "number": 3,
             "color_identity": "C",
             "cost": "",
@@ -2366,9 +2171,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }

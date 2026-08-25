@@ -1,4 +1,110 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Max Clover, Private Eye added.
+Aether Hand Cannon added.
+The Maltese Griffin added.
+Brass Sky Enforcer added.
+ENOUGH! added.
+Clever Newsie added.
+Increasing Police Presence added.
+Kaladesh Judge added.
+Kaladesh Juror added.
+Kaladesh Executioner added.
+Simlar, Consul of Law added.
+Vigilant Captain added.
+Amateur Reanimator added.
+Consult the Victim added.
+Disembodied Spark added.
+Evidence Dig added.
+Gonti, Black Market King added.
+Last Words added.
+Pangs of Guilt added.
+Piatra Dimonde, Mob Broker added.
+Silvanti, Yahenni's Follower added.
+They All Did It! added.
+What if I Did It... added.
+Faithless Investigating added.
+Red Trout added.
+Bloated Numbers added.
+Brass Analyzer added.
+Brass Assistant added.
+Brass Bodyguard added.
+Brass Enforcer added.
+Burn the Evidence added.
+Chromlar, Head of Security added.
+City Mortician added.
+Confusing Trade Deal added.
+Enforcer Setup added.
+Evidence Fabricator added.
+Final Verdict added.
+Homicide Trial added.
+Infiltrate the Mob added.
+Mob Advisor added.
+Mob Work added.
+Lost Drifter added.
+Power Shock added.
+Programmable Companion added.
+Ranaj, Enforcer-Chief added.
+Recruit Backup added.
+Servati Hart, Eternities Tinkerer added.
+The Investigation added.
+Uncompromising Justice added.
+Gambling Ring added.
+Vera Spade, Card Shark added.
+Wadsworth, Brass Butler added.
+Aether Shipment added.
+Clover's Journal added.
+Emergency Supply added.
+Outdated Scrap Heap added.
+The Pathway Machine added.
+Undistilled Firebomb added.
+Undistilled Healing Salve added.
+Undistilled Power added.
+Victim's Aether added.
+Victim's Jewelry added.
+Victim's Keepsakes added.
+Sudden Sandstorm added.
+Aether Refinery added.
+Brass Factory added.
+Forensics Laboratory added.
+Crime Scene added.
+The Blind Eternities added.
+The Consulate added.
+Mob Diner added.
+Suspect's Lab added.
+Clover's Office added.
+Vera's Bar added.
+Enforcer Headquarters added.
+Hart's Workshop added.
+Brass Smithy added.
+Brass Welders added.
+Brass Workshop added.
+Clue added.
+Robot Clue added.
+Treasure added.
+Thopter added.
+Servo added.
+Rogue added.
+Human Detective added.
+Human Soldier added.
+Copy added.
+Human Detective added.
+Human added.
+Human Soldier added.
+Black Market Warehouse added.
+Consulate Reserves added.
+Inventor's Market added.
+Distant Sands added.
+Distant Flames added.
+Distant Towns added.
+Melted Consulate added.
+Arrested Headquarters added.
+Abandoned Shops added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Suspicion and Guilt added.
