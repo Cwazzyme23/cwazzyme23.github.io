@@ -1,0 +1,1424 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fractured Piece",
+        "number": 4,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Absorbing Blob",
+        "number": 19,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "J.O.J. (Jumble of Jaces)",
+        "number": 5,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Echoing Howl",
+        "number": 20,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Claim to Prime",
+        "number": 6,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Eternal Grieving",
+        "number": 21,
+        "shape": "saga",
+        "set": "EFR",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Degrading Do-Gooder",
+        "number": 7,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Flesh Dissolution",
+        "number": 22,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Little Learner",
+        "number": 8,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Focused Degradation",
+        "number": 23,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Living Water",
+        "number": 9,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Jace, Desperate Digger",
+        "number": 24,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Replication Theorist",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Jace, Flesh-Built",
+        "number": 25,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Talas Traveler",
+        "number": 11,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Jace, Grave Robber",
+        "number": 26,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, The Runner",
+        "number": 12,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Jace, Jaceless Corpse",
+        "number": 27,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, The Tinkerer",
+        "number": 13,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Jace, Living Sand",
+        "number": 28,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rabian Reporter",
+        "number": 14,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Jace, Meek Mentor",
+        "number": 29,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spontaneous Generation",
+        "number": 15,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Materialize Everything",
+        "number": 30,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sudden Inversal",
+        "number": 16,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Morphed Memory",
+        "number": 31,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Trade Self",
+        "number": 17,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Organic Overload",
+        "number": 32,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Witless Tagalong",
+        "number": 18,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Rip Through the Barrier",
+        "number": 33,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Desparked Mass",
+        "number": 43,
+        "shape": "transform double faced",
+        "set": "EFR",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Absorb Mass",
+        "number": 34,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Accursed Sidearm",
+        "number": 35,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dark Rabiah",
+        "number": 36,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eternities Reclaimer",
+        "number": 37,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Extreme Spark Burst",
+        "number": 38,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fifthist Kidnapping",
+        "number": 39,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Forceful Absorption",
+        "number": 40,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grab Lifeforce",
+        "number": 41,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Gunner and the Liar",
+        "number": 42,
+        "shape": "saga",
+        "set": "EFR",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Fifthist Scholar",
+        "number": 44,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Matter Theif",
+        "number": 45,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace of Channeled Bodies",
+        "number": 46,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, Overwrought Ex",
+        "number": 47,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jace, the Finale",
+        "number": 48,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mirage of Desperation",
+        "number": 50,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Random Convergence",
+        "number": 51,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Recurring Dream",
+        "number": 52,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shambling Blob",
+        "number": 53,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Meld With Matter",
+        "number": 54,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Relentless Resolve",
+        "number": 55,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Birth from Nothing",
+        "number": 1,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Jace, Voided Pistoleer",
+        "number": 2,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Nailah's Barrier",
+        "number": 3,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Jace?",
+        "number": 49,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Ancient Ring",
+        "number": 56,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Engine Scraps",
+        "number": 57,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Jace, Metal-held",
+        "number": 58,
+        "shape": "planeswalker",
+        "set": "EFR",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "The MageFinder",
+        "number": 59,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "The Musketeers' Locket",
+        "number": 60,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Ruined Model",
+        "number": 61,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Spark Attuner",
+        "number": 62,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Spark Dampener",
+        "number": 63,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Spark Injector",
+        "number": 64,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Talassan Charm",
+        "number": 65,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Thousandfold Centerpiece",
+        "number": 66,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Desert Oasis",
+        "number": 70,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "The Dakmor Diamond",
+        "number": 68,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Library of Guff",
+        "number": 77,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "El-Hajj\u00e2j's Chambers",
+        "number": 71,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Library of Libraries",
+        "number": 78,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Leng Relocated",
+        "number": 75,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nailah's Chambers",
+        "number": 80,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tojira's Cabin",
+        "number": 87,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Annals of King's Head",
+        "number": 67,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dark Rabiah's Edge",
+        "number": 69,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Isle of Glass",
+        "number": 74,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Library of Fifthism",
+        "number": 76,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Prime's Study",
+        "number": 81,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sorceress' Study",
+        "number": 84,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Incinerated Library",
+        "number": 72,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "The Infinite Nothing",
+        "number": 73,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Mist-Swallowed Marsh",
+        "number": 79,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Sands of Confusion",
+        "number": 82,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Sea of Sand",
+        "number": 83,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Sweltering Mirage",
+        "number": 85,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Thousandfold Center",
+        "number": 86,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Urza's Library",
+        "number": 88,
+        "shape": "normal",
+        "set": "EFR",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Sand Wall",
+        "number": 2,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Spawn",
+        "number": 3,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Human",
+        "number": 7,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Clue",
+        "number": 9,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Map",
+        "number": 10,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Robot Clue",
+        "number": 11,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 12,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 4,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Water Illusion",
+        "number": 5,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Snake",
+        "number": 6,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "One Made of Five",
+        "number": 8,
+        "shape": "token",
+        "set": "EFR",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,14 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "EFR",
+            "set_name": "Escape from Rabiah",
+            "formats": "Commander"
+        },
+        {
+            "set_code": "MOK",
+            "set_name": "Murder on Kaladesh",
+            "formats": "Commander"
+        }
+    ]
+}

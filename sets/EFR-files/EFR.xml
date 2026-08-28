@@ -1,0 +1,1744 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>EFR</name>
+			<longname>Escape from Rabiah</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-28</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Jace, Desparked Mass</name>
+			<text>Devoid
+When Jace enters the battlefield or whenever you cast a colorless spell with {U} or {B} in its casting cost, Fracture 1. (Create a blue Jace planeswalker token named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)
+Sacrifice ten Jace planeswalkers: Transform Jace, Desparked Mass
+---
+(Back): Jace, Critical Mass</text>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/0_front.png" num="43a">EFR</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>CUB</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jace, Critical Mass</related>
+		</card>
+		<card>
+			<name>Jace, Critical Mass</name>
+			<text>[0]: Exile cards from the top of your library until you exile a Jace planeswalker card. Put a number of loyalty counters on Jace equal to that card&apos;s loyalty, then you may cast it without paying its mana cost.
+[-40]: Exile Jace, Critical Mass. You win the game.
+
+---
+(Front): Jace, Desparked Mass</text>
+			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/0_back.png" num="43b">EFR</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Jace.</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+				<loyalty>10</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Jace, Desparked Mass</related>
+		</card>
+		<card>
+			<name>Absorb Mass</name>
+			<text>Devoid (This card has no color.)
+As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Put a number of +1/+1 counters on target creature or loyalty counters on target planeswalker equal to the power of the sacrificed creature or loyalty of the sacrificed planeswalker. If you sacrificed a planeswalker this way, draw a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/1.png" num="34">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rip Through the Barrier</name>
+			<text>Destroy target creature. Its controller creates a number of 1/1 colorless Spawn creature tokens equal to its power. Each player who controls a permanent named &quot;Nailah&apos;s Barrier&quot; must sacrifice it.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/2.png" num="33">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nailah&apos;s Barrier</name>
+			<text>At the beginning of your upkeep, put a time counter on Nailah&apos;s Barrier.
+Players can&apos;t cast creature or planeswalker spells. 
+Whenever a nontoken creature or planeswalker enters the battlefield, if there are three or more time counters on Nailah&apos;s Barrier, exile that permanent, then Fracture X and sacrifice Nailah&apos;s Barrier, where X is that creature&apos;s power or that planeswalker&apos;s loyalty. Otherwise, return that permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/3.png" num="3">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shambling Blob</name>
+			<text>Devoid (This card has no color.)
+When Shambling Blob enters the battlefield, put a -1/-1 counter on target creature.
+Sacrifice Shambling Blob: Proliferate.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/4.png" num="53">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grab Lifeforce</name>
+			<text>Devoid (This card has no color.)
+Counter target spell. Fracture 1, then put X loyalty counters on a planeswalker you control, where X is the mana value of that spell. (Create a blue Jace planeswalker token named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/5.png" num="41">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jace, Voided Pistoleer</name>
+			<text>[+1]: Jace deals 2 damage to any target. Fracture 1.
+[-2]: Jace deals damage to target creature or planeswalker equal to the number of planeswalkers you control, then flip a coin. If you win the flip, until end of turn, you may activate loyalty abilities of other planeswalkers you control an additional time.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/6.png" num="2">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2CC</manacost>
+				<cmc>4</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fifthist Kidnapping</name>
+			<text>Gain control of target creature or planeswalker. If that permanent is two or more colors, proliferate X times, where X is the number of colors other than blue and/or black that it is.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/7.png" num="39">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forceful Absorption</name>
+			<text>Destroy target creature. Put X +1/+1 counters on target creature or loyalty counters on target planeswalker, where X is the destroyed creature&apos;s toughness.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/8.png" num="40">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Absorbing Blob</name>
+			<text>Evolve
+Whenever a counter is put onto Absorbing Blob for the first time each turn, target creature gets -1/-1 until end of turn.
+When Absorbing Blob dies, if its power was 5 or greater, Fracture 3.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/9.png" num="19">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal Grieving</name>
+			<text>Devoid (This card has no color.)
+I — Each player loses 1 life. Create a 1/1 colorless Spawn creature token.
+II — Each player loses 1 life. Fracture 1. Remove all lore counters from Eternal Grieving.
+III — Each opponent loses 10 life.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/10.png" num="21">EFR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Replication Theorist</name>
+			<text>Devoid (This card has no color.)
+[0]: Fracture 1.
+[-5]: Create a token that&apos;s a copy of another target Jace planeswalker you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/11.png" num="10">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Organic Overload</name>
+			<text>Devoid (This card has no color.)
+As an additional cost to cast this spell, remove X counters from a nonland permanent you control.
+Destroy X target creatures and create X 1/1 colorless Spawn creature tokens.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/12.png" num="32">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morphed Memory</name>
+			<text>Devoid (This card has no color.)
+Deathtouch
+At the beginning of your upkeep, create a 1/1 black Snake creature token with Deathtouch. Then if you control three or more Snake tokens, sacrifice them and Fracture 3.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/13.png" num="31">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jace, Degrading Do-Gooder</name>
+			<text>Devoid (This card has no color.)
+At the beginning of your upkeep, remove a loyalty counter from Jace and Fracture 1. (Create a blue Jace planeswalker token named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)
+[0]: Each player may draw a card. Put a loyalty counter on Jace for each opponent who does.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/14.png" num="7">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extreme Spark Burst</name>
+			<text>Devoid. (This card has no color.)
+Choose a planeswalker you control. Destroy all creatures and all other planeswalkers, then put a loyalty counter on it for each nontoken permanent destroyed this way.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/15.png" num="38">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jace, Living Water</name>
+			<text>Permanents you control with flood counters on them have &quot;{T}: Add {U}{U}.&quot;
+[+1]: Put a flood counter on target land you control. At the beginning of your end step, remove it.
+[-4]: Create a 2/2 blue Water Illusion creature token with &quot;At the beginning of your upkeep, put a flood counter on a permanent you control.&quot;</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/16.png" num="9">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The MageFinder</name>
+			<text>When The MageFinder enters, create a 1/1 colorless Spawn creature token.
+{3}, {T}, Sacrifice a creature: Exile cards from the top of your library until you exile a Jace planeswalker card. Put that card onto the battlefield, then put the exiled cards on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/17.png" num="59">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Gunner and the Liar</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a Jace planeswalker card with mana value 4 or less, put it onto the battlefield, then shuffle. Target opponent Fractures 1.
+Add {B}{B}. Investigate.
+II, III — Choose target creature or planeswalker an opponent controls. You gain life equal to that creature&apos;s toughness or planeswalker&apos;s loyalty, then target Jace you control deals 100 damage to it.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/18.png" num="42">EFR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Relentless Resolve</name>
+			<text>The next time that a source an opponent controls would deal damage to or destroy target creature or planeswalker you control this turn, proliferate, then that permanent gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/19.png" num="55">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meld With Matter</name>
+			<text>Gain control of target nonland permanent an opponent controls. It loses all types and abilities and becomes an Aura enchantment with enchant creature and &quot;Enchanted creature gets +X/+X, where X is equal to this permanent&apos;s mana value,&quot; then attach it to target creature.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/20.png" num="54">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rabian Reporter</name>
+			<text>Whenever a planeswalker enters under your control, Investigate. If this is the second time this ability has resolved this turn, sacrifice a clue instead. If you do, draw a card. This ability triggers only twice each turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/21.png" num="14">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spark Attuner</name>
+			<text>{T}: Add {U}. If you control ten or more planeswalkers, add {U}{U} instead.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/22.png" num="62">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spark Injector</name>
+			<text>{T}: Add {B}. If you control a planeswalker with ten or more loyalty counters on it, add {B}{B} instead.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/23.png" num="64">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thousandfold Centerpiece</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice a planeswalker: Add X mana in any combination of colors, where X is the number of planeswalkers you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/24.png" num="66">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thousandfold Center</name>
+			<text>When Thousandfold Center enters, choose a color.
+{T}: Add one mana of the chosen color.
+{3}, {T}: Create a copy of Thousandfold Center.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/25.png" num="86">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flesh Dissolution</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Exile target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/26.png" num="22">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eternities Reclaimer</name>
+			<text>Devoid (This card has no color.)
+When Eternities Reclaimer enters, create a 1/1 colorless Spawn creature token.
+Planeswalkers and Spawn creatures you control have &quot;Sacrifice this permanent: Add {C}.&quot;
+Whenever a Planeswalker or Spawn creature you control dies, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/27.png" num="37">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eldrazi</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jace, Living Sand</name>
+			<text>When Jace enters, create a 0/2 colorless Sand Wall creature token with Defender.
+[+1]: Until end of turn, Sand creatures you control have haste and &quot;{T}: Add {B}.&quot;
+[-5]: Create a 0/2 colorless Sand Wall creature token with Defender. This ability costs [+1] more to activate for each Sand creature you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/28.png" num="28">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Jaceless Corpse</name>
+			<text>Whenever you discard a creature or planeswalker card, you may exile it with a corpse counter on it. If you do, and this is the first or second time this ability has resolved this turn, put a loyalty counter on Jace.
+[+1]: Until end of turn, Jace becomes a 0/0 black Zombie creature with wither, persist, and &quot;This creature gets +1/+1 for each card in exile with a corpse counter on it.&quot;
+[-10]: Put each permanent card in exile with a corpse counter on it onto the battlefield under your control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/29.png" num="27">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spark Dampener</name>
+			<text>Planeswalkers with no loyalty counters on them lose all loyalty abilities, can&apos;t leave the battlefield unless they are sacrificed, and can&apos;t change control.
+{2}: Put a loyalty counter on target planeswalker that does not have any loyalty counters on it.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/30.png" num="63">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trade Self</name>
+			<text>Counter target spell. Its controller may Fracture 1. (Create a blue Jace planeswalker token named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/31.png" num="17">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Focused Degradation</name>
+			<text>Devoid (This card has no color.)
+Enchant Player
+When Focused Degradation becomes attached to a player, put a -1/-1 counter on each creature they control and remove a loyalty counter from each planeswalker they control.
+At the beginning of each opponent&apos;s upkeep, flip a coin. If you win the flip, attach Curse of Degradation to that player.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/32.png" num="23">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Random Convergence</name>
+			<text>When Random Convergence enters, Fracture 1.
+Sacrifice three planeswalkers: Reveal cards from the top of your library until you reveal a planeswalker card, put it onto the battlefield, then shuffle. Activate once per turn and only as a sorcery.
+{4}{U}: Fracture 2. (Create two blue Jace planeswalker tokens named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/33.png" num="51">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recurring Dream</name>
+			<text>At the beginning of your upkeep, if there are fewer than four dream counters on Recurring Dream, put a dream counter on Recurring Dream, then target Jace you control phases out until Recurring Dream leaves the battlefield. Then choose a card name at random that hasn&apos;t been chosen from among &quot;Jace Beleren,&quot; &quot;Jace, the Mind Sculptor,&quot; &quot;Jace, Cunning Castaway,&quot; and &quot;Alhammarret, High Arbiter.&quot; Create a token copy of the card with the chosen name. When Recurring Dream leaves the battlefield, sacrifice those tokens.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/34.png" num="52">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UUUB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Infinite Nothing</name>
+			<text>When The Infinite Nothing enters and at the beginning of your first main phase, if you control a creature or planeswalker, put a travel counter on The Infinite Nothing and add {C}. 
+If five or more travel counters are on The Infinite Nothing, remove all travel counters from it, sacrifice it, then search your library for a planeswalker, artifact, or desert card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/35.png" num="73">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Materialize Everything</name>
+			<text>Destroy all creatures and planeswalkers. They can&apos;t be regenerated. If ten or more permanents are destroyed this way, create two 1/1 colorless Spawn creature tokens and Fracture 2.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/36.png" num="30">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Witless Tagalong</name>
+			<text>Defender
+This creature enters the battlefield with five +1/+1 counters on it. 
+At the beginning of your upkeep, you may remove a counter from Witless Tagalong. When you do, put two loyalty counters on a planeswalker you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/37.png" num="18">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Birth from Nothing</name>
+			<text>At the beginning of your upkeep, create a number of 1/1 colorless Spawn creature tokens equal to the number of planeswalkers you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/38.png" num="1">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2CC</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spontaneous Generation</name>
+			<text>Devoid (This card has no color.)
+Whenever a Jace token enters, Fracture 1. This ability triggers only once each turn. (Create a blue Jace planeswalker token named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)
+Whenever an ability triggers, you may copy it. Do this only once each turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/39.png" num="15">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Little Learner</name>
+			<text>Devoid (This card has no color.)
+[+1]: You may search your library for a card named &quot;Jace, Meek Mentor,&quot; exile it, then shuffle and put it on top of your library. 
+[0]: Add {U} to your mana pool. You can&apos;t activate this ability if Jace entered this turn.
+[-4]: Target player draws a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/40.png" num="8">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sudden Inversal</name>
+			<text>Until end of turn, target creature gains &quot;This creature deals damage to Planeswalkers in the form of loyalty counters.&quot; (Planeswalkers dealt damage by that creature this turn gain that many loyalty counters instead of losing them.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/41.png" num="16">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jace of Channeled Bodies</name>
+			<text>When Jace enters, sacrifice it unless it escaped.
+When Jace enters and at the beginning of your upkeep, each opponent loses X life and you gain X life, where X is the total number of loyalty counters among planeswalkers you control.
+Escape—{U}{U}{B}{B}, Pay 10 life, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/42.png" num="46">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2CUB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Rabiah</name>
+			<text>At the beginning of each player&apos;s upkeep, that player loses life equal to the number of nonland permanents they control. 
+Remove a counter from a permanent you control: Until end of turn, target player gains control of target nontoken permanent you control. It loses all types and abilities while they control it.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/43.png" num="36">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>CCUUBBB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Ring</name>
+			<text>{T}: Add {U} or {B} to your mana pool. You lose 1 life.
+{7}, {T}, Exile this artifact: Search your library for a black or colorless planeswalker card, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/44.png" num="56">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ruined Model</name>
+			<text>{T}: Add {U} or {B} to your mana pool. You lose 1 life.
+{7}, {T}, Exile Ruined Model: Search your library for a blue or colorless planeswalker and put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/45.png" num="61">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, The Tinkerer</name>
+			<text>[+1]: Create a Clue, a Treasure, or a Map token.
+[0]: Weld 1. Fracture 1.
+[-6]: Search up to two target players&apos; libraries for up to two artifact cards each and put them onto the battlefield under your control, then those players shuffle their libraries.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/46.png" num="13">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Musketeers&apos; Locket</name>
+			<text>{T}: Add {C}{C}.
+{T}: Add {C}{U}{B}. You can&apos;t spend this mana on colored spells.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/47.png" num="60">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Echoing Howl</name>
+			<text>Rebound
+Until end of turn, planeswalkers you control become 1/1 black Wizard creatures in addition to their other types and colors, then creatures you control get +X/+0, trample, and deathtouch, where X is the number of planeswalkers you control. Regenerate them.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/48.png" num="20">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Talassan Charm</name>
+			<text>Talassan Charm enters tapped.
+{T}: Add {U}.
+{4}{U}, {T}: Draw a card. Activate only during your turn, before blockers are declared.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/49.png" num="65">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Engine Scraps</name>
+			<text>Engine Scraps enters tapped.
+{T}: Add {B}
+{4}{B}, {T}: Target creature&apos;s base power becomes equal to the number of creatures and planeswalkers in your graveyard until end of turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/50.png" num="57">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tojira&apos;s Cabin</name>
+			<text>Tojira&apos;s Cabin enters tapped unless you control a black planeswalker.
+{T}: Add {B}.
+{4}{B}{B}, {T}, Sacrifice Tojira&apos;s Cabin: Tojira&apos;s Cabin deals 4 damage to target opponent or planeswalker. You gain 4 life.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/51.png" num="87">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Library of Guff</name>
+			<text>Library of Guff enters tapped unless you control a blue planeswalker.
+{T}: Add {U}.
+{3}{U}{U}, {T}, Sacrifice Library of Guff: Change the text of target permanent or spell by removing all rules text. (It regains it once it changes zones.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/52.png" num="77">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nailah&apos;s Chambers</name>
+			<text>Nailah&apos;s Chambers enters tapped unless you control a planeswalker.
+{T}: Add {B}.
+{1}{B}{B}, {T}: Target creature has base power and toughness 0/2 until end of turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/53.png" num="80">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>El-Hajjâj&apos;s Chambers</name>
+			<text>El-Hajjâj&apos;s Chambers enters tapped unless you control a planeswalker.
+{T}: Add {B}.
+{1}{B}{B}, {T}: Target creature gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/54.png" num="71">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Incinerated Library</name>
+			<text>{T}: Add {C}.
+{T}: Draw a card. Activate only if you have no cards in hand and have at least ten cards in your graveyard.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/55.png" num="72">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Desert Oasis</name>
+			<text>{T}: Add {C}.
+{T}: Add {U}. You lose 1 life.
+{1}, {T}: Prevent the next 1 damage that would be dealt to target creature this turn. 
+{1}, {T}: This land deals 1 damage to target attacking creature. Activate only during the end of combat step.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/56.png" num="70">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Library of Libraries</name>
+			<text>Library of Libraries enters tapped unless you control a library.
+{T}: Add {U} or {C}.
+{2}{U}, {T}, Put Library of Libraries on the bottom of your library: Search your library for a card named Library of Libraries and another Library, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/57.png" num="78">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Leng Relocated</name>
+			<text>Leng Relocated enters tapped unless you control another desert.
+{T}: Add {B}.
+{1}, {T}: The next time an effect would cause you to discard one or more cards, discard it, but you may put it on top of your library instead of into your graveyard.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/58.png" num="75">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Isle of Glass</name>
+			<text>The Isle of Glass enters tapped.
+{T}: Add {U} or {B}.
+{4}{U}, {T}, Sacrifice The Isle of Glass: Search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/59.png" num="74">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Accursed Sidearm</name>
+			<text>When Accursed Sidearm enters and whenever a permanent with a bounty counter on it leaves the battlefield, put a bounty counter on target creature or planeswalker. 
+Remove a counter from equipped permanent: Accursed Sidearm deals 5 damage to target creature or planeswalker with a bounty counter on it. When that permanent dies this turn, put two loyalty counters on equipped permanent. Activate only as a sorcery and only once each turn.
+Equip Planeswalker {2}</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/60.png" num="35">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>CUB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Library of Fifthism</name>
+			<text>{T}: Add {C}
+{T}: Add {U} or {B}. Activate only if you control a planeswalker.
+{3}, {T}: Choose a color. Create a Jace? planeswalker token of the chosen color and put two loyalty counters on it. (It has no abilities. Not even loyalty ones.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/61.png" num="76">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Dakmor Diamond</name>
+			<text>{T}: Add {C}
+{T}: Add {B}. You lose 1 life.
+{3}, {T}: Mill two cards.
+{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature&apos;s toughness.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/62.png" num="68">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sorceress&apos; Study</name>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {B}. Activate only if you control a black or colorless creature or planeswalker.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/63.png" num="84">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sea of Sand</name>
+			<text>{T}: Add {C}.
+Landfall — Whenever another land enters under your control, flip a coin. If you win the flip, Sea of Sand becomes your choice of an Island or a Swamp in addition to its other types.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/64.png" num="83">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Annals of King&apos;s Head</name>
+			<text>{T}: Add {C}.
+{1}, {T}: If you control a library that could add {U}, Annals of King&apos;s Head becomes an island in addition to its other types. The same is true for a library that could add {B} and swamp.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/65.png" num="67">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Urza&apos;s Library</name>
+			<text>{T}: Add {C}.
+{7}, {T}: Fracture X, where X is the number of cards in your hand. Planeswalker tokens created this way are Urzas in addition to their other types.  (Create X blue Jace planeswalker tokens named &quot;Fractured Piece.&quot; They enter with two loyalty counters on them and have &quot;[-1]: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/66.png" num="88">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Urza&apos;s Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sweltering Mirage</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice Sweltering Mirage: Search your library for up to three islands, put them onto the battlefield tapped, then shuffle. At the beginning of your next upkeep, if you put more than one land onto the battlefield this way, shuffle a number of islands you control equal to the difference into your library.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/67.png" num="85">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mist-Swallowed Marsh</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice Mist-Swallowed Marsh: Search your library for up to three swamps, put them onto the battlefield tapped, then shuffle. At the beginning of your next upkeep, if you put more than one land onto the battlefield this way, shuffle a number of swamps you control equal to the difference into your library.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/68.png" num="79">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sands of Confusion</name>
+			<text>As Sands of Confusion enters, if you played it from your hand, you may pay {2}. If you do, sacrifice Sands of Confusion, search your library for two Libraries, put them onto the battlefield tapped, then shuffle, then exile the top card of your library and a Library you control. You may play those cards from exile on your next turn. If you exiled a Library from your library this way, manifest the top card of your library.
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/69.png" num="82">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Prime&apos;s Study</name>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {B}. Activate only if you control a blue or colorless creature or planeswalker.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/70.png" num="81">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Library</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dark Rabiah&apos;s Edge</name>
+			<text>{T}: Add {C}.
+{C}, {T}: Add {B}{B} or {U}{U}. You lose 1 life.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/71.png" num="69">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fractured Piece</name>
+			<text>[-1]: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/72.png" num="4">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2</pt>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spawn EFR</name>
+			<text></text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/73.png" num="3">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spawn</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Snake EFR</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/74.png" num="6">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy EFR</name>
+			<text>This token can be used to represent a token that&apos;s a copy of a permanent. </text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/75.png" num="1">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Jace?</name>
+			<text>Jace? has no abilities. Not even loyalty ones.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/76.png" num="49">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2</pt>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Human EFR</name>
+			<text></text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/77.png" num="7">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>One Made of Five EFR</name>
+			<text>Lifelink, Hexproof, Deathtouch, Haste, Trample</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/78.png" num="8">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Illusion EFR</name>
+			<text></text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/79.png" num="4">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure EFR</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/80.png" num="12">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clue EFR</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/81.png" num="9">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Map EFR</name>
+			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/82.png" num="10">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Robot Clue EFR</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/83.png" num="11">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Robot Clue</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Jace, Desperate Digger</name>
+			<text>Devoid (This card has no color.)
+When Jace enters, Fracture 1.
+Whenever you discard a card, you may exile it instead of putting it into your graveyard.
+[+1]: Put a card exiled with Jace into your hand.
+[-2]: Fracture 1.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/84.png" num="24">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>J.O.J. (Jumble of Jaces)</name>
+			<text>As J.O.J. enters, Fracture 4. J.O.J. enters with a number of loyalty counters on it equal to the number of other Jace planeswalkers you control. 
+Whenever a loyalty counter is put onto J.O.J., Fracture 1.
+Whenever one or more loyalty counters are removed from J.O.J., sacrifice that many other Jace planeswalkers.
+[+1]: Until end of turn, up to X target Jace planeswalkers become 2/2 Human Wizards with unblockable in addition to their other types, where X is the number of cards in your hand.
+[-1]: Draw a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/85.png" num="5">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>*</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Fifthist Scholar</name>
+			<text>[+1]: Choose a color. Create a 1/1 Human creature token of the chosen color.
+[-1]: Sacrifice two creatures. If you do, draw two cards.
+[-7]: Sacrifice five creatures of different colors. If you do, create a 5/5 Legendary Human creature token with lifelink, hexproof, deathtouch, haste, and trample named &quot;One Made of Five&quot; that&apos;s all colors.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/86.png" num="44">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Flesh-Built</name>
+			<text>Devoid. (This card has no color.)
+Whenever a creature an opponent controls dies, exile it instead, then put a loyalty counter on Jace.
+Whenever one or more loyalty counters are removed from Jace, create a 1/1 colorless Spawn creature token.
+[-2]: Draw a card and lose 2 life.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/87.png" num="25">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Grave Robber</name>
+			<text>At the beginning of your end step, you may mill a card. Then if the top card of your graveyard is a planeswalker that wasn&apos;t put there from the battlefield this turn, you may put it onto the battlefield with a finality counter on it.
+[+1]: Mill a card.
+[-1]: Exile up to two target cards from your graveyard.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/88.png" num="26">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Meek Mentor</name>
+			<text>Devoid (This card has no color.)
+[+1]: You may search your library for a card named &quot;Jace, Little Learner,&quot; exile it, then shuffle your library and put that card on top.
+[0]: Add {B} to your mana pool. You can&apos;t activate this ability if Jace entered this turn.
+[-4]: Target player discards a card.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/89.png" num="29">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<coloridentity>B</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Matter Theif</name>
+			<text>[0]: Sacrifice a creature. If you do, put a number of loyalty counters on Jace equal to the sacrificed creature&apos;s power.
+[-4]: Destroy target creature. Create a number of 1/1 colorless Spawn creature tokens equal to that creature&apos;s power.
+[-8]: Gain control of target creature.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/90.png" num="45">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Overwrought Ex</name>
+			<text>Devoid (This card has no color.)
+As an additional cost to cast this spell, you may exile any number of creatures and planeswalkers you control. This spell cost {X} less to cast, where X is the number of permanents exiled this way.
+Jace enters with X plus 2 loyalty counters on it.
+[+1]: Each opponent loses X life and you gain X life, where X is the number of planeswalkers you control.
+[-1]: Fracture X, where X is the number of loyalty counters on Jace.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/91.png" num="47">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>X4UB</manacost>
+				<cmc>6</cmc>
+				<coloridentity>UB</coloridentity>
+				<loyalty>*</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Talas Traveler</name>
+			<text>Devoid (This card has no color.)
+[+1]: Whenever one or more creatures you control attack and aren&apos;t blocked this turn, draw a card, then discard a card.
+[-2]: Choose target nontoken permanent you control and target permanent an opponent controls of the same type, then exchange control of those permanents. You may activate this ability only once.
+[-5]: Create two tokens that are copies of Jace, Talas Traveler, except they&apos;re not legendary.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/92.png" num="11">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, the Finale</name>
+			<text>Devoid (This card has no color.)
+Whenever a creature or planeswalker leaves the battlefield, each opponent loses 1 life and you gain 1 life.
+[+1]: Create two 2/2 blue Illusion creature tokens. Exile them at the beginning of your end step.
+[-2]: Fracture 3.
+[-8]: Create 7 copies of Jace, the Finale, except they&apos;re not legendary, then exile all creatures and all other legendary planeswalkers.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/93.png" num="48">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, The Runner</name>
+			<text>Devoid (This card has no color.)
+At the beginning of your upkeep and whenever Jace is attacked or becomes the target of a spell or ability, note the number of loyalty counters on Jace and exile it, then return Jace to the battlefield under the control of the player to your left with the noted number of loyalty counters on it.
+You may activate Jace&apos;s loyalty abilities any time you could cast an instant.
+[0]: Create a 1/1 colorless Spawn creature token and a Treasure token. Jace&apos;s owner may Fracture 1.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/94.png" num="12">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Claim to Prime</name>
+			<text>Devoid (This card has no color.)
+(Jace, Claim to Prime is not legendary.)
+At the beginning of your upkeep, remove a loyalty counter from Jace and Fracture 1.
+[+2]: Each player draws a card. 
+[-1]: Target player exiles the top card of their library.
+[-10]: Target player exiles the top twenty cards of their library. You may cast cards exiled this way without paying their mana cost.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/95.png" num="6">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Metal-held</name>
+			<text>Whenever Jace or another nontoken artifact you control leaves the battlefield, Fracture 1.
+[+1]: Until the start of your next turn, target creature or planeswalker you control becomes an artifact in addition to its other types and gains indestructible.
+[-X]: Create X copies of target creature or planeswalker, except they&apos;re artifacts and aren&apos;t legendary. X can&apos;t be less than six. (They lose all other types.)</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/96.png" num="58">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Planeswalker — Jace?</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Water Illusion EFR</name>
+			<text>When this creature attacks, put a flood counter on a permanent you control.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/97.png" num="5">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Water Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sand Wall EFR</name>
+			<text>Defender</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/98.png" num="2">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Sand Wall</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mirage of Desperation</name>
+			<text>{1}, Pay 1 life: Draw a card, then discard a card.
+{U}{B}: This enchantment becomes a 3/3 Gorgon Illusion with Deathtouch, Vanishing, and &quot;When this permanent dies, return it to the battlefield under its owners control.&quot; Put two time counters on it. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/EFR-files/img/99.png" num="50">EFR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
