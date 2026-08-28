@@ -5,7 +5,7 @@
 			<name>MOK</name>
 			<longname>Murder on Kaladesh</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-25</releasedate>
+			<releasedate>2026-08-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -209,7 +209,7 @@ At the beginning of combat on your turn, you may pay {2}{B}{B}. If you control a
 		<card>
 			<name>Simlar, Consul of Law</name>
 			<text>When Simlar, Consul of Law enters the battlefield and at the beginning of your upkeep, each player may Investigate. For each opponent who does, Investigate.
-Whenever an opponent draws a card, if it isn&apos;t their draw step, choose one. This ability triggers only once per opponent per turn.
+Whenever an opponent draws a card, if it isn&apos;t their draw step, choose one. 
 • Create a 1/1 white Human Soldier creature token.
 • Target creature becomes suspicious.</text>
 			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/10.png" num="7">MOK</set>
@@ -497,7 +497,7 @@ At the beginning of each player&apos;s upkeep, they create a copy of Red Trout, 
 		</card>
 		<card>
 			<name>Bloated Numbers</name>
-			<text>At the beginning of each player&apos;s end step, you may have that player manifest the top X cards of their library, where X is one plus the number of guilty cards they own. Put a suspicion counter on each creature created this way.
+			<text>At the beginning of each player&apos;s end step, you may have that player manifest the top X cards of their library, where X is one plus the number of guilty cards in exile. Put a suspicion counter on each creature created this way.
 You can&apos;t be attacked by creatures with no name.
 {3}, Exile Bloated Numbers: Exile all creatures with no name.</text>
 			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/25.png" num="23">MOK</set>
@@ -525,8 +525,8 @@ At the beginning of each player&apos;s upkeep, they choose one:
 				<side>front</side>
 				<type>Artifact Creature — Robot Detective</type>
 				<maintype>Creature</maintype>
-				<manacost>2RW</manacost>
-				<cmc>4</cmc>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>1/4</pt>
@@ -594,8 +594,8 @@ Draw X cards, then deal X damage to up to two targets.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1RRWB</manacost>
-				<cmc>5</cmc>
+				<manacost>RRWB</manacost>
+				<cmc>4</cmc>
 				<colors>WBR</colors>
 				<coloridentity>WBR</coloridentity>
 			</prop>
@@ -709,16 +709,16 @@ Creatures without names can&apos;t attack you or planeswalkers you control.</tex
 			<name>Homicide Trial</name>
 			<text>(As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
-II, III — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
-Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.</text>
+II — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+III — Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.</text>
 			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/37.png" num="33">MOK</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3WB</manacost>
-				<cmc>5</cmc>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 			</prop>
@@ -733,8 +733,8 @@ Exile up to two target suspicious creatures, then each opponent loses two times 
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -778,7 +778,7 @@ Target creature becomes suspicious.</text>
 		</card>
 		<card>
 			<name>Lost Drifter</name>
-			<text>Squad {1}{R}{W} (As an additional cost to cast this spell, you may pay {1}{R}{W} any number of times. When this creature enters, create that many tokens that are copies of it.)
+			<text>Squad {R}{W} (As an additional cost to cast this spell, you may pay {R}{W} any number of times. When this creature enters, create that many tokens that are copies of it.)
 Whenever you&apos;re attacked by one or more creatures, put a suspicion counter on each attacking creature, then deal 3 damage to target attacking creature.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/41.png" num="36">MOK</set>
 			<prop>
@@ -908,7 +908,8 @@ III — Exile a Detective you control or nontoken creature you control.</text>
 		</card>
 		<card>
 			<name>Uncompromising Justice</name>
-			<text>Whenever a creature you control attacks a player, that player exiles the top card of their library and puts a guilt counter on it, then untap that creature. It gains first strike and gets +X/+0 until end of combat, where X is the number of guilty cards the defending player owns.</text>
+			<text>When Uncompromising Justice enters, exile all suspicious creatures. Create a 1/1 white Human Soldier creature token for each creature that left the battlefield this way.
+Whenever a creature you control attacks a player, that player exiles the top card of their library and puts a guilt counter on it, then untap that creature. It gains first strike and gets +X/+0 until end of combat, where X is the number of guilty cards the defending player owns.</text>
 			<set rarity="mythic" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/48.png" num="46">MOK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1025,7 +1026,7 @@ Whenever you sacrifice a clue, put a charge counter on Clover&apos;s Journal.
 		<card>
 			<name>Outdated Scrap Heap</name>
 			<text>When Outdated Scrap Heap enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying and a 1/1 colorless Servo artifact creature token.
-At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If you do, create a token that&apos;s a copy of another target artifact you control.</text>
+At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If you do, create a token that&apos;s a copy of target artifact you control.</text>
 			<set rarity="uncommon" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/55.png" num="60">MOK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1055,7 +1056,7 @@ At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If y
 		<card>
 			<name>Undistilled Firebomb</name>
 			<text>{T}: Add {R} to your mana pool.
-{2}, Sacrifice Undistilled Firebomb: Undistilled Firebomb deals 1 damage to target creature or planeswalker. Draw a card.</text>
+{3}, {T}, Sacrifice Undistilled Firebomb: Undistilled Firebomb deals 1 damage to target creature or planeswalker. Draw a card.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/57.png" num="62">MOK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1071,7 +1072,7 @@ At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If y
 		<card>
 			<name>Undistilled Healing Salve</name>
 			<text>{T}: Add {W} to your mana pool.
-{2}, Sacrifice Undistilled Healing Salve: Gain 1 life. Draw a card.</text>
+{3}, {T}, Sacrifice Undistilled Healing Salve: Gain 1 life. Draw a card.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/58.png" num="63">MOK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1087,7 +1088,7 @@ At the beginning of your upkeep, you may pay {2} and sacrifice an artifact. If y
 		<card>
 			<name>Undistilled Power</name>
 			<text>{T}: Add {B} to your mana pool.
-{2}, Sacrifice Undistilled Power: Target opponent loses 1 life. Draw a card.</text>
+{3}, {T}, Sacrifice Undistilled Power: Target opponent loses 1 life. Draw a card.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/59.png" num="64">MOK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1221,8 +1222,8 @@ Each opponent may flip a coin. Each player who wins the flip chooses an artifact
 		</card>
 		<card>
 			<name>Crime Scene</name>
-			<text>Crime Scene enters the battlefield tapped. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
-When Crime Scene enters the battlefield, target creature becomes suspicious. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+			<text>Crime Scene enters the battlefield tapped.
+When Crime Scene enters the battlefield, target creature becomes suspicious.
 {T}: Add {R}, {W}, or {B} to your mana pool.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/67.png" num="79">MOK</set>
 			<prop>
