@@ -5,7 +5,7 @@
 			<name>MOK</name>
 			<longname>Murder on Kaladesh</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-27</releasedate>
+			<releasedate>2026-08-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -445,7 +445,7 @@ At the beginning of your upkeep, each opponent loses X life, where X is the numb
 		</card>
 		<card>
 			<name>What if I Did It...</name>
-			<text>As an additional cost to cast this spell, exile target creature you control and put a guilt counter on it.
+			<text>As an additional cost to cast this spell, exile a creature you control and put a guilt counter on it.
 Draw three cards.</text>
 			<set rarity="common" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/22.png" num="19">MOK</set>
 			<prop>
@@ -709,8 +709,8 @@ Creatures without names can&apos;t attack you or planeswalkers you control.</tex
 			<name>Homicide Trial</name>
 			<text>(As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
-II — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
-III — Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.</text>
+II, III — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.</text>
 			<set rarity="rare" picurl="https://cwazzyme23.github.io/sets/MOK-files/img/37.png" num="33">MOK</set>
 			<prop>
 				<layout>saga</layout>

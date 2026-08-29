@@ -1,4 +1,31 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+What if I Did It...
+rules_text: As an additional cost to cast this spell, exile target creature you control and put a guilt counter on it.
+Draw three cards. => As an additional cost to cast this spell, exile a creature you control and put a guilt counter on it.
+Draw three cards.
+
+Homicide Trial
+rules_text: [i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
+II — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+III — Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own. => [i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
+II, III — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.
+special_text: [i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
+II — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+III — Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own. => [i](As this saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create four 1/1 white Human Soldier creature tokens, then sacrifice a creature.
+II, III — Sacrifice a creature, then for each creature you control, Investigate. Up to two target creatures become suspicious.
+Exile up to two target suspicious creatures, then each opponent loses two times X life, where X is the number of guilty cards they own.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
